@@ -1,5 +1,5 @@
 # PHP Loyalty
-Point Transaction system for laravel 5
+Loyalty system for laravel 5 +
 
 ## Installation
 
