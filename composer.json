@@ -1,22 +1,27 @@
 {
-    "name": "nu1ww/loyalty",
-    "description": "Total loyalty management module",
-    "keywords": ["points", "royalty", "laravel", "loyalty", "reward"],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Nuwan Wijethilaka",
-            "email": "nuwan.wijethilaka@layoutindex.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.5.9",
-        "illuminate/support": "~5.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Loyalty\\": "src/"
-        }
+  "name": "nu1ww/loyalty",
+  "description": "Total loyalty management module",
+  "keywords": [
+    "points",
+    "royalty",
+    "laravel",
+    "loyalty"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nuwan Wijethilaka",
+      "email": "nuwan.wijethilaka@layoutindex.com"
     }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Loyalty\\": "src/"
+    }
+  }
 }
