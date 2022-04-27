@@ -19,7 +19,7 @@ And then include the service provider within `app/config/app.php`.
 
 At last you need to publish and run the migration.
 ```
-php artisan vendor:publish --provider="Loyalty\PointableServiceProvider" && php artisan migrate
+php artisan vendor:publish --provider="Loyalty\LoyaltyServiceProvider" && php artisan migrate
 ```
 
 -----
